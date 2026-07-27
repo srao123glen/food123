@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://food123.ai/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://food123.ai/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://food123.ai/collections/games.atom"/>
+  <title>Food123!</title>
+  <updated>2026-02-27T07:02:58-05:00</updated>
+  <author>
+    <name>Food123!</name>
+  </author>
+  <entry>
+    <id>https://food123.ai/products/14909264953455</id>
+    <published>2026-02-27T07:02:58-05:00</published>
+    <updated>2026-02-27T07:02:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/memory-game-box-1"/>
+    <title>Memory Game Box -1</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:tag>Kids Learning &amp; Games</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14909264953455</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

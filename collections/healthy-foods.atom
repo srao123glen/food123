@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://food123.ai/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://food123.ai/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://food123.ai/collections/healthy-foods.atom"/>
+  <title>Food123!</title>
+  <updated>2026-02-27T07:43:41-05:00</updated>
+  <author>
+    <name>Food123!</name>
+  </author>
+  <entry>
+    <id>https://food123.ai/products/14909268000879</id>
+    <published>2026-02-27T07:43:41-05:00</published>
+    <updated>2026-02-27T07:43:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/quinoa-grain"/>
+    <title>Quinoa Grain</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Pre-washed white quinoa. Cooks in 15 minutes. Use in salads, khichdi, pulao, upma, or as a nutritious rice substitute.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grains &amp; Superfoods</s:tag>
+    <s:tag>Healthy Foods</s:tag>
+    <s:tag>Quinoa</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14909268000879</id>
+      <title>Default Title</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/14908426649711</id>
+    <published>2026-02-26T01:51:53-05:00</published>
+    <updated>2026-02-26T01:51:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/strawberry-freeze-dried-fruit-chips"/>
+    <title>Freeze Dried Strawberry</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0702/9984/4719/files/strawbeery.png?v=1772088629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bright, tangy, and irresistibly crunchy — our <strong>Freeze-Dried Strawberry Fruit Chips</strong> are made from<br>fresh strawberries, freeze-dried to preserve their vibrant colour and natural taste.<br>These chips are perfect for snacking, baking, or adding a fruity crunch to smoothies and desserts.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FREEZE DRIED FRUIT</s:tag>
+    <s:tag>Healthy Foods</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14908426649711</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku/>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/14908425797743</id>
+    <published>2026-02-26T01:49:18-05:00</published>
+    <updated>2026-02-26T01:49:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/sapota-freeze-dried-fruit-chips"/>
+    <title>Freeze Dried Chikoo</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0702/9984/4719/files/sapota.png?v=1772088447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="woocommerce-product-details__short-description">
+<p data-start="261" data-end="276">✔ No Added Sugar<br>✔ 100% Natural<br>✔ Kid Friendly<br>✔ Free Shipping Above ₹1000</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FREEZE DRIED FRUIT</s:tag>
+    <s:tag>Healthy Foods</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14908425797743</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/14908423012463</id>
+    <published>2026-02-26T01:38:58-05:00</published>
+    <updated>2026-02-26T01:38:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/mango-freeze-dried-fruit-chunks"/>
+    <title>Freeze Dried Mango</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0702/9984/4719/files/mango.png?v=1772087823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy the rich, tropical sweetness of mangoes all year round with our <strong>Freeze-Dried Mango Fruit</strong><br><strong>Chunks</strong>. Made from ripe, juicy mangoes, these chunks deliver intense flavour with a light, crispy<br>texture.<br>Freeze-drying helps preserve the fruit’s natural taste and nutrients without the need for additives. A<br>perfect snack for mango lovers, whether you’re at home, at work, or on the go.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FREEZE DRIED FRUIT</s:tag>
+    <s:tag>Healthy Foods</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14908423012463</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/8064013172847</id>
+    <published>2026-02-18T05:38:16-05:00</published>
+    <updated>2026-02-18T05:38:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/black-jamun-freeze-dried-fruit-chips"/>
+    <title>Freeze Dried Jamun</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0702/9984/4719/files/jamun.png?v=1771411053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the bold, tangy goodness of <strong>Black Jamun</strong> in a light, crunchy form. Our freeze-dried jamun<br>chips are made from carefully selected ripe fruits and processed using advanced freeze-drying<br>technology to retain their natural colour, flavour, and nutrients.<br>Perfect as a guilt-free snack, these chips are 100% fruit, with no added sugar, preservatives, or<br>artificial flavours. Enjoy them straight from the pack or add them to smoothies, yoghurt, or breakfast<br>bowls.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FREEZE DRIED FRUIT</s:tag>
+    <s:tag>Healthy Foods</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/8064013172847</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

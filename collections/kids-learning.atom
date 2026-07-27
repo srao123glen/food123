@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://food123.ai/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://food123.ai/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://food123.ai/collections/kids-learning.atom"/>
+  <title>Food123!</title>
+  <updated>2026-07-24T04:57:23-04:00</updated>
+  <author>
+    <name>Food123!</name>
+  </author>
+  <entry>
+    <id>https://food123.ai/products/15404606783599</id>
+    <published>2026-07-24T04:57:23-04:00</published>
+    <updated>2026-07-24T04:57:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/path-to-nobel-vol-2"/>
+    <title>Path to Nobel - Vol 2</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/15404606783599</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/15404605276271</id>
+    <published>2026-07-24T04:56:54-04:00</published>
+    <updated>2026-07-24T04:56:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/path-to-nobel-vol-1"/>
+    <title>Path to Nobel - Vol 1</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/15404605276271</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/15404603834479</id>
+    <published>2026-07-24T04:56:25-04:00</published>
+    <updated>2026-07-24T04:56:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/american-desi-kitchen"/>
+    <title>American Desi Kitchen</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/15404603834479</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/15404602359919</id>
+    <published>2026-07-24T04:55:57-04:00</published>
+    <updated>2026-07-24T04:55:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/word-search-game-500-food-items-1"/>
+    <title>Word Search Game 500 food items</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/15404602359919</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/15404600983663</id>
+    <published>2026-07-24T04:55:29-04:00</published>
+    <updated>2026-07-24T04:55:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/100-foods-coloring-book-1"/>
+    <title>100 Foods Coloring book</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/15404600983663</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/15404596985967</id>
+    <published>2026-07-24T04:54:29-04:00</published>
+    <updated>2026-07-24T04:54:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/100-foods-coloring-book"/>
+    <title>100 Foods Coloring book</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eBook</s:tag>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/15404596985967</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/15404588597359</id>
+    <published>2026-07-24T04:53:50-04:00</published>
+    <updated>2026-07-24T04:53:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/word-search-game-500-food-items"/>
+    <title>Word Search Game 500 food items</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eBook</s:tag>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/15404588597359</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/15404584501359</id>
+    <published>2026-07-24T04:53:42-04:00</published>
+    <updated>2026-07-24T04:53:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/rhymes-12-flip-books-download-each"/>
+    <title>Rhymes 12 FLIP BOOKS download EACH</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eBook</s:tag>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/15404584501359</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/14913534099567</id>
+    <published>2026-03-03T02:11:47-05:00</published>
+    <updated>2026-03-03T02:11:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/365-rhymes-book-set"/>
+    <title>365 Rhymes - Book set</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14913534099567</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/14913533542511</id>
+    <published>2026-03-03T02:07:54-05:00</published>
+    <updated>2026-03-03T02:07:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/500-food-items-word-search-book"/>
+    <title>500 Food Items Word Search book</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14913533542511</id>
+      <title>Default Title</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/14909265051759</id>
+    <published>2026-02-27T07:05:18-05:00</published>
+    <updated>2026-02-27T07:05:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/american-flag-saree"/>
+    <title>American Flag Saree</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14909265051759</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/14909264953455</id>
+    <published>2026-02-27T07:02:58-05:00</published>
+    <updated>2026-02-27T07:02:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/memory-game-box-1"/>
+    <title>Memory Game Box -1</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:tag>Kids Learning &amp; Games</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14909264953455</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/14909165043823</id>
+    <published>2026-02-27T02:40:40-05:00</published>
+    <updated>2026-02-27T02:40:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/365-rhymes-9"/>
+    <title>365 Rhymes -9</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0702/9984/4719/files/9-NUTS_SEEDS.jpg?v=1772791724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14909165043823</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/14909164322927</id>
+    <published>2026-02-27T02:39:21-05:00</published>
+    <updated>2026-02-27T02:39:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/365-rhymes-8"/>
+    <title>365 Rhymes -8</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0702/9984/4719/files/8-GRAINS.jpg?v=1772791724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14909164322927</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/14909163110511</id>
+    <published>2026-02-27T02:38:16-05:00</published>
+    <updated>2026-02-27T02:38:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/365-rhymes-7"/>
+    <title>365 Rhymes -7</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0702/9984/4719/files/7-LEAFY_VEGETABLES.jpg?v=1772791724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14909163110511</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/14909139189871</id>
+    <published>2026-02-27T02:36:43-05:00</published>
+    <updated>2026-02-27T02:36:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/365-rhymes-6"/>
+    <title>365 Rhymes -6</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0702/9984/4719/files/6-SPICES.jpg?v=1772791724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14909139189871</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/14909124739183</id>
+    <published>2026-02-27T02:30:53-05:00</published>
+    <updated>2026-02-27T02:30:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/365-rhymes-5"/>
+    <title>365 Rhymes -5</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0702/9984/4719/files/5-PULSES_LEGUMES.jpg?v=1772791724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14909124739183</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/14909123559535</id>
+    <published>2026-02-27T02:29:06-05:00</published>
+    <updated>2026-02-27T02:29:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/365-rhymes-4"/>
+    <title>365 Rhymes -4</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0702/9984/4719/files/4-VEGETABLES-2.jpg?v=1772791724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14909123559535</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/14909118546031</id>
+    <published>2026-02-27T02:22:00-05:00</published>
+    <updated>2026-02-27T02:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/365-rhymes-3"/>
+    <title>365 Rhymes -3</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0702/9984/4719/files/3-BERRIES_522f7b00-4268-4cf2-896a-a003af2ec365.jpg?v=1772791724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;"> Sing, rhyme, and learn! This delightful booklet teaches nutrition through short, catchy rhymes that make healthy eating fun and memorable for children. 365 Food items covered.</span></p>
+<p><b>Perfect for:</b><span style="font-weight: 400;"> Toddlers and preschoolers.</span></p>
+<p><b>Key Features:</b><b></b></p>
+<ul>
+<li>
+<span style="font-weight: 400;">Simple rhymes kids love to repeat.</span><span style="font-weight: 400;"></span>
+</li>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;"> Reinforces food names and health benefits.</span>
+</li>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;"> Great for bedtime or classroom reading.</span>
+</li>
+</ul>
+<p><b>Visuals:</b><span style="font-weight: 400;"> Illustrated pages with rhymes, parent reading to child.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14909118546031</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/14909112221807</id>
+    <published>2026-02-27T02:12:20-05:00</published>
+    <updated>2026-02-27T02:12:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/food-for-rhymes-vegetables-vol-2"/>
+    <title>365 Rhymes -2</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0702/9984/4719/files/2-VEGETABLES.jpg?v=1772791724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14909112221807</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/14909106356335</id>
+    <published>2026-02-27T02:08:50-05:00</published>
+    <updated>2026-02-27T02:08:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/365-rhymes-12"/>
+    <title>365 Rhymes -12</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0702/9984/4719/files/12-BONUS_BASKET.jpg?v=1772791724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14909106356335</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/14908509323375</id>
+    <published>2026-02-26T05:20:18-05:00</published>
+    <updated>2026-02-26T05:20:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/365-rhymes-11"/>
+    <title>365 Rhymes -11</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0702/9984/4719/files/11-GOURDS.jpg?v=1772791724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14908509323375</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/14908509225071</id>
+    <published>2026-02-26T05:17:19-05:00</published>
+    <updated>2026-02-26T05:17:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/365-rhymes-10"/>
+    <title>365 Rhymes -10</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0702/9984/4719/files/10-TUBERS_ROOTS.jpg?v=1772791724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14908509225071</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://food123.ai/products/14908430778479</id>
+    <published>2026-02-26T02:00:59-05:00</published>
+    <updated>2026-02-26T02:00:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://food123.ai/products/365-rhymes-1"/>
+    <title>365 Rhymes -1</title>
+    <s:type></s:type>
+    <s:vendor>food123.ai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0702/9984/4719/files/1-FRUITS.jpg?v=1772791724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>food123.ai<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food Learning Books</s:tag>
+    <s:tag>Kids Learning</s:tag>
+    <s:variant>
+      <id>https://food123.ai/products/14908430778479</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

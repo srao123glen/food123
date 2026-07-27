@@ -1,0 +1,20 @@
+.footer__copyright{
+    text-align:left !important;
+}
+.knowledge .multicolumn-card{
+    text-align:center;
+    border-radius:10px;
+}
+.knowledge .multicolumn-card__info{
+    padding:10px;
+}
+.kn-link{
+    text-decoration:none;
+}
+.kn-link h3{
+    font-size:16px !important;
+}
+.doubly-float {
+    left: auto;
+    right: 10px !important;
+}
