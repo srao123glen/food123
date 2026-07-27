@@ -18,3 +18,8 @@
     left: auto;
     right: 10px !important;
 }
+/* Header logo enlarged 30% over the theme's 150px. The theme's own
+   max-width:100% still caps it inside narrow containers on mobile. */
+.header__heading-logo{
+    width:195px;
+}
