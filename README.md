@@ -3,6 +3,9 @@
 A one-time static snapshot of the live Shopify storefront at https://food123.ai,
 taken so the design can be edited and previewed on GitHub Pages.
 
+Published at https://srao123glen.github.io/food123/ — every push to `main`
+redeploys it via `.github/workflows/pages.yml`.
+
 This is **not** a live mirror. Nothing here syncs with Shopify. Once the snapshot
 was taken, this copy became fully independent — all further changes happen here.
 
